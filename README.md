@@ -9,4 +9,4 @@
 
 #### License
 
-The code that I have/will add here has Apache-2.0 License. For the reading material and anything else that is not produced by me, you will have to ask the author. I am not responsible for the material here.
+The code that I have/will add[ed] here has Apache-2.0 License. For the reading material and anything else that is not produced by me, you will have to ask the author[s]. I am not responsible for the material here.
