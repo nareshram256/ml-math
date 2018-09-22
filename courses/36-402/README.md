@@ -104,3 +104,7 @@ Lecture notes
     * High-dimensional regression (cont'd)
         * (Same materials as previous lecture)
         * R files: [highdim.R](highdim.R), [bvsim.R](bvsim.R) 
+
+### Course Link
+
+http://www.stat.cmu.edu/~ryantibs/advmethods/
